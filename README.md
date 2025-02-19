@@ -34,7 +34,8 @@ Ensure you have the following installed before running the program:
    ```sh
    pip install -r requirements.txt
    ```
-   
+3. Ensure Tesseract OCR is installed and its path is configured correctly.
+
 ## Usage
 1. Run the script using:
    ```sh

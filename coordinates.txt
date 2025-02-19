@@ -1,0 +1,12 @@
+Original Text:
+=244>55:13=1:
+73 ,4e2 07k
+
+
+Modified Text:
+-244>55:13-1:
+73 ,4e2 07k
+
+
+Latitude: -244
+Longitude: 73
