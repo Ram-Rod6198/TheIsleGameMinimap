@@ -1,4 +1,4 @@
-# Isle MiniMap - Admin Info
+# Isle MiniMap
 
 ## Overview
 Isle MiniMap is a Python-based tool that captures a section of the screen, extracts coordinates using OCR, and displays a minimap with the extracted location marked. It is designed to assist with navigation by providing a visual representation of coordinates on a predefined map. I found the game frustrating with how huge the map is and had the idea to make a minimap when I saw that it had coordinates.
