@@ -26,7 +26,7 @@ Ensure you have the following installed before running the program:
 
 ### External Requirements
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (Ensure it is installed and configured properly on your system.)
-- A local or online copy of the map image (`Map.png`).
+- A local or online copy of the map image (`Map.png`). (I created the map by taking an existing map and setting the size of it to be 600 pixels as that is the max grid coordinate size.)
 
 ## Installation
 1. Clone or download this repository.
