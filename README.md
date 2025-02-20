@@ -1,7 +1,8 @@
 # The Isle Game MiniMap
 
 ## Overview
-Isle MiniMap is a Python-based tool that captures a section of the screen, extracts coordinates using OCR, and displays a minimap with the extracted location marked. It is designed to assist with navigation by providing a visual representation of coordinates on a predefined map. I found the game frustrating with how huge the map is and had the idea to make a minimap when I saw that it had coordinates.
+I enjoyed playing the game The Isle but I found it frustrating constantly getting lost every step of the way. The game has no map nor minimap system which motivated me to find a solution to this problem.
+TheIsle Game MiniMap is a Python-based tool that captures a section of the screen, extracts coordinates using OCR, and displays a minimap with the extracted location marked. It is designed to assist with navigation by providing a visual representation of coordinates on a predefined map. I found the game frustrating with how huge the map is and had the idea to make a minimap when I saw that it had coordinates.
 
 ## Features
 - Captures a portion of the screen to extract coordinate information.
@@ -56,8 +57,6 @@ Ensure you have the following installed before running the program:
 
 ## Troubleshooting
 - **OCR Errors**: If coordinates are not recognized correctly, try enabling **Convert to B/W** or adjusting the screenshot region.
-- **Incorrect Map Positioning**: Ensure the correct map image is being used and is properly scaled.
-- **Permission Errors**: Run the script with administrator privileges if encountering access issues.
 
 ## License
 This project is open-source under the MIT License. 
